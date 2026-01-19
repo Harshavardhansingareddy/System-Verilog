@@ -6,3 +6,6 @@ class freq_env_config extends uvm_object;
     super.new(name);
   endfunction
 endclass
+
+class b;
+endclass
